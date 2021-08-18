@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rhancco/demo-node/issues"
   },
-  "homepage": "https://github.com/rhancco/demo-node#readme"
+  "homepage": "https://github.com/rhancco/demo-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
